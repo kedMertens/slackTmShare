@@ -1,4 +1,4 @@
-# slackTmShare
+# slackTmShare (Link)
 
 Share files from slack to telegram and vice versa. 
 
