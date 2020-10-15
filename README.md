@@ -16,7 +16,7 @@ On mobile devices there is share button you just click and choose where to share
 #### Solution:
 
 Have a common place to store data and have an interface through messengers' bots.
-Textile bucket is used as such storage and bots can push, pull and share data through it. (3 clicks)
+Textile bucket is used as such storage and bots can push, pull and share data through it (3 clicks).
 
 #### Demo (Dog is here to cover sensetive data):
 
