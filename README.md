@@ -18,6 +18,12 @@ On mobile devices there is share button you just click and choose where to share
 Have a common place to store data and have an interface through messengers' bots.
 Textile bucket is used as such storage and bots can push, pull and share data through it.
 
-#### Demo:
+#### Demo (Dog is here to cover sensetive data):
 
 ![](demo.gif)
+
+#### Further development:
+
+1. Add support for multiple users
+2. Improve robustness of bot inputs
+3. Consider to write python client of hub api or use gRPC
